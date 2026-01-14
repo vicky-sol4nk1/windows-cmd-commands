@@ -1,4 +1,5 @@
 # windows-cmd-commands
+cmd commands for managing process
 
 | Purpose                   | Command                        | Example                                 |
 | ------------------------- | ------------------------------ | --------------------------------------- |
@@ -17,6 +18,8 @@
 | Open Performance Monitor  | `perfmon`                      | `perfmon`                               |
 
 
+
+# powershell commands for process managment
 
 | Purpose                | Command                             | Example                                                     |
 | ---------------------- | ----------------------------------- | ----------------------------------------------------------- |
